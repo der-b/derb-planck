@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "planck_keyboard")(type "KiCad")(uri "/home/bernd/working/schematics/planck_keyboard.pretty")(options "")(descr ""))
+)
